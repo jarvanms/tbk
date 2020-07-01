@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+public/node_modules/
+public/.sass-cache/
+.idea/
+*.map
+/public/dvbEnv.php
+/git_template
+.vscode/
+/app/controllers/front/BookController.php
+web/
+runtime
